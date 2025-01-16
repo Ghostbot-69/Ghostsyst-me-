@@ -36,7 +36,6 @@ Bienvenue dans la documentation officielle de **GhostBot V2**, un bot intelligen
 | `!welcome`        | Configure les messages de bienvenue.       |
 | `!kick`           | Expulse un membre du groupe.              |
 | `!ban`            | Bannit un utilisateur de manière permanente. |
-| `!settings`       | Affiche ou modifie les paramètres du bot. |
 
 ---
 
