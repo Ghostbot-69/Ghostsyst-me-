@@ -50,7 +50,7 @@ Bienvenue dans la documentation officielle de **GhostBot V2**, un bot intelligen
 
 1. Clonez le dépôt :  
    ```bash
-   git clone https://github.com/XxGhostxX/GhostBotV2.git
+   git clone https://github.com/Bxnaruto/Ksnnd-flzldbcbskkzkdkxlzndbfji-.git
    cd GhostBotV2
 # GhostBot V2 – PAS TOUCHE !
 
